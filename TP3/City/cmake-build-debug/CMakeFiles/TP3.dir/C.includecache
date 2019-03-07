@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP3/CityProblem.c
+CityProblem.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP3/CityProblem.h
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP3/CityProblem.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+locale.h
+-
+time.h
+-
+windows.h
+-
+

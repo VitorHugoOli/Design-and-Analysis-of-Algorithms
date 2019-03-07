@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ShiftAndExato"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ShiftAndExato">
+				<Option output="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/ShiftAndExato.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShiftAndExato"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ShiftAndExato/fast">
+				<Option output="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/ShiftAndExato.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShiftAndExato/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/main.c">
+			<Option target="ShiftAndExato"/>
+		</Unit>
+		<Unit filename="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/shif.c">
+			<Option target="ShiftAndExato"/>
+		</Unit>
+		<Unit filename="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/shif.h">
+			<Option target="ShiftAndExato"/>
+		</Unit>
+		<Unit filename="C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

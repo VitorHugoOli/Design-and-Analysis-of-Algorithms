@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/TP4_PAA_BM/BM.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/TP4_PAA_BM/BM.h
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/TP4_PAA_BM/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+locale.h
+-
+BM.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/TP4_PAA_BM/BM.h
+

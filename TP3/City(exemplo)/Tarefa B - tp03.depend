@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1478915353 source:/home/gustavo/Área de Trabalho/Tarefa B - tp03/Cidade.c
+	"Cidade.h"
+
+1478915360 /home/gustavo/Área de Trabalho/Tarefa B - tp03/Cidade.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
+1478915574 source:/home/gustavo/Área de Trabalho/Tarefa B - tp03/main.c
+	"Cidade.h"
+	<time.h>
+

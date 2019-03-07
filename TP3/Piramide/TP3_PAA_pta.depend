@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1542422330 source:/home/josediego/Documentos/TP3_PAA_pta/main.c
+	"piramide.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1542466857 /home/josediego/Documentos/TP3_PAA_pta/piramide.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<stdint.h>
+
+1542477186 source:/home/josediego/Documentos/TP3_PAA_pta/piramide.c
+	"piramide.h"
+
+1542425930 source:c:\users\vho20\dropbox\facu\4 semestre\paa\tps\tp3_paa_pta\main.c
+	"piramide.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1542470456 c:\users\vho20\dropbox\facu\4 semestre\paa\tps\tp3_paa_pta\piramide.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<stdint.h>
+
+1542480786 source:c:\users\vho20\dropbox\facu\4 semestre\paa\tps\tp3_paa_pta\piramide.c
+	"piramide.h"
+

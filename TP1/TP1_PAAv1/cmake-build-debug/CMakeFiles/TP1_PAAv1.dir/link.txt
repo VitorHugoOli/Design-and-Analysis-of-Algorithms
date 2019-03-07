@@ -1,0 +1,2 @@
+C:\PROGRA~2\CODEBL~1\MinGW\bin\ar.exe qc libTP1_PAAv1.a  CMakeFiles/TP1_PAAv1.dir/main.c.obj CMakeFiles/TP1_PAAv1.dir/arq.c.obj CMakeFiles/TP1_PAAv1.dir/Hash.c.obj
+C:\PROGRA~2\CODEBL~1\MinGW\bin\ranlib.exe libTP1_PAAv1.a

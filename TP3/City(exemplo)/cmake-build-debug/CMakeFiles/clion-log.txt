@@ -1,0 +1,75 @@
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files (x86)/CodeBlocks/MinGW/bin/mingw32-make.exe" "-DCMAKE_C_COMPILER=C:/Program Files (x86)/CodeBlocks/MinGW/bin/gcc.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files (x86)/CodeBlocks/MinGW/bin/g++.exe" -G "CodeBlocks - MinGW Makefiles" "C:\Users\vho20\Dropbox\facu\4 SEMESTRE\PAA\TPS\Tarefa B(tp3)"
+CMake Error: Could not find cmake module file: CMakeDetermineBCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_B_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_B_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/Tarefa B(tp3)/cmake-build-debug/CMakeFiles/3.12.2/CMakeBCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermine(Compiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_(_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_(_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/Tarefa B(tp3)/cmake-build-debug/CMakeFiles/3.12.2/CMake(Compiler.cmake
+CMake Error: Could not find cmake module file: CMakeDeterminetp3Compiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_tp3_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_tp3_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/Tarefa B(tp3)/cmake-build-debug/CMakeFiles/3.12.2/CMaketp3Compiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermine)Compiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_)_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_)_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/Tarefa B(tp3)/cmake-build-debug/CMakeFiles/3.12.2/CMake)Compiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_B_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_B_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeBInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_(_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_(_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMake(Information.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_tp3_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_tp3_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMaketp3Information.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_)_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_)_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMake)Information.cmake
+CMake Error: CMAKE_B_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_(_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_tp3_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_)_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/Tarefa B(tp3)/cmake-build-debug/CMakeFiles/CMakeOutput.log".

@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1537541592 source:c:\users\jose diego\documents\tp_paa\arq.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arq.h"
+	<time.h>
+	<windows.h>
+
+1537540558 c:\users\jose diego\documents\tp_paa\arq.h
+
+1537490435 source:c:\users\jose diego\documents\tp_paa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arq.h"
+
+1537566423 source:c:\users\jose diego\documents\tp_paav2.2\arq.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arq.h"
+	<time.h>
+	<windows.h>
+
+1537566154 c:\users\jose diego\documents\tp_paav2.2\arq.h
+	"Hash.h"
+
+1537566282 source:c:\users\jose diego\documents\tp_paav2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arq.h"
+
+1537560277 c:\users\jose diego\documents\tp_paav2.2\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+
+1537561403 source:c:\users\jose diego\documents\tp_paav2.2\hash.c
+	"Hash.h"
+
+1537566423 source:c:\users\jose diego\documents\tp1_paav2.2\arq.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arq.h"
+	<time.h>
+	<windows.h>
+
+1537566154 c:\users\jose diego\documents\tp1_paav2.2\arq.h
+	"Hash.h"
+
+1537560277 c:\users\jose diego\documents\tp1_paav2.2\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+
+1537561403 source:c:\users\jose diego\documents\tp1_paav2.2\hash.c
+	"Hash.h"
+
+1537566282 source:c:\users\jose diego\documents\tp1_paav2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arq.h"
+

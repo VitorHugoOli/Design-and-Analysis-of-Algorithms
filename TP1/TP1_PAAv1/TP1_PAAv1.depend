@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1537536337 source:c:\users\vho20\dropbox\facu\4 semestre\paa\tp1_paav1\arq.c
+	<stdio.h>
+	<stdlib.h>
+	"arq.h"
+	"Hash.h"
+	<time.h>
+	<windows.h>
+
+1537508873 c:\users\vho20\dropbox\facu\4 semestre\paa\tp1_paav1\arq.h
+	"Hash.h"
+
+1537536531 source:c:\users\vho20\dropbox\facu\4 semestre\paa\tp1_paav1\main.c
+	"arq.h"
+	"Hash.h"
+
+1537533672 source:c:\users\vho20\dropbox\facu\4 semestre\paa\tp1_paav1\hash.c
+	"Hash.h"
+
+1537515277 c:\users\vho20\dropbox\facu\4 semestre\paa\tp1_paav1\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+

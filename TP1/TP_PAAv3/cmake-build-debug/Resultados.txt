@@ -1,0 +1,2080 @@
++---------------------------------------------------------------------------+
+|                      Opção com entrada manual                             |
++---------------------------------------------------------------------------+
+Valor de X : 3825
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 50----------------------------------------------
+Tempo de ordenacao: 0,000013
+Tempo de Mapeamento Hash: 0,000054 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000002 segundos
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,000073
+
+Tempo de ordenacao: 0,000006
+Tempo de Mapeamento Hash: 0,000006 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000001 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000015
+
+Tempo de ordenacao: 0,000006
+Tempo de Mapeamento Hash: 0,000005 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000000 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000013
+
+Tempo de ordenacao: 0,000006
+Tempo de Mapeamento Hash: 0,000005 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000001 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000014
+
+Tempo de ordenacao: 0,000005
+Tempo de Mapeamento Hash: 0,000007 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000000 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000015
+
+TEMPO MÉDIO TOTAL: 0,000026
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 50----------------------------------------------
+Tempo de ordenacao: 0,000005
+Tempo de Mapeamento Hash: 0,000010 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000001 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000019
+
+Tempo de ordenacao: 0,000003
+Tempo de Mapeamento Hash: 0,000004 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000000 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000010
+
+Tempo de ordenacao: 0,000011
+Tempo de Mapeamento Hash: 0,000004 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000001 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000019
+
+Tempo de ordenacao: 0,000006
+Tempo de Mapeamento Hash: 0,000006 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000000 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000015
+
+Tempo de ordenacao: 0,000003
+Tempo de Mapeamento Hash: 0,000009 segundos
+Tempo de Busca: 0,000001 segundos
+Tempo de Busca2: 0,000000 segundos
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000015
+
+TEMPO MÉDIO TOTAL: 0,000016
+
++---------------------------------------------------------------------------+
+|                      Opção com entrada manual                             |
++---------------------------------------------------------------------------+
+Valor de X : 3844
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 800----------------------------------------------
+Tempo de ordenacao: 0,001174
+Tempo de Mapeamento Hash: 0,000111 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000060 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000023 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,001371
+
+Tempo de ordenacao: 0,001172
+Tempo de Mapeamento Hash: 0,000129 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000021 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001379
+
+Tempo de ordenacao: 0,001038
+Tempo de Mapeamento Hash: 0,000103 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000050 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001213
+
+Tempo de ordenacao: 0,000946
+Tempo de Mapeamento Hash: 0,000063 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000037 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000167 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001216
+
+Tempo de ordenacao: 0,000898
+Tempo de Mapeamento Hash: 0,000052 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000037 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000029 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001018
+
+TEMPO MÉDIO TOTAL: 0,001239
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 800----------------------------------------------
+Tempo de ordenacao: 0,000086
+Tempo de Mapeamento Hash: 0,000050 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000035 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000187
+
+Tempo de ordenacao: 0,000083
+Tempo de Mapeamento Hash: 0,000072 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000051 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000020 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000228
+
+Tempo de ordenacao: 0,000102
+Tempo de Mapeamento Hash: 0,000095 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000051 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000020 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000270
+
+Tempo de ordenacao: 0,000102
+Tempo de Mapeamento Hash: 0,000072 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000051 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000020 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000246
+
+Tempo de ordenacao: 0,000102
+Tempo de Mapeamento Hash: 0,000074 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca: 0,000052 segundos
+Valor encontrado =  271 + 3573 = 3844
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  812 + 3032 = 3844
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000249
+
+TEMPO MÉDIO TOTAL: 0,000236
+
++---------------------------------------------------------------------------+
+|                      Opção com entrada manual                             |
++---------------------------------------------------------------------------+
+Valor de X : 3864
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 1000----------------------------------------------
+Tempo de ordenacao: 0,001845
+Tempo de Mapeamento Hash: 0,000124 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000075 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000005 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,002051
+
+Tempo de ordenacao: 0,001977
+Tempo de Mapeamento Hash: 0,000080 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000055 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000004 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,002117
+
+Tempo de ordenacao: 0,001604
+Tempo de Mapeamento Hash: 0,000077 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000004 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001740
+
+Tempo de ordenacao: 0,001605
+Tempo de Mapeamento Hash: 0,000076 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000004 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001740
+
+Tempo de ordenacao: 0,001701
+Tempo de Mapeamento Hash: 0,000119 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000004 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001881
+
+TEMPO MÉDIO TOTAL: 0,001906
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 1000----------------------------------------------
+Tempo de ordenacao: 0,000136
+Tempo de Mapeamento Hash: 0,000095 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000004 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000290
+
+Tempo de ordenacao: 0,000128
+Tempo de Mapeamento Hash: 0,000097 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000057 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000004 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000287
+
+Tempo de ordenacao: 0,000124
+Tempo de Mapeamento Hash: 0,000094 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000003 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000278
+
+Tempo de ordenacao: 0,000121
+Tempo de Mapeamento Hash: 0,000095 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000003 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000275
+
+Tempo de ordenacao: 0,000120
+Tempo de Mapeamento Hash: 0,000099 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca: 0,000054 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca2: 0,000003 segundos
+Valor encontrado =  6 + 3858 = 3864
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000278
+
+TEMPO MÉDIO TOTAL: 0,000281
+
++---------------------------------------------------------------------------+
+|                     Opção com entrada automatica                          |
++---------------------------------------------------------------------------+
+Valor de X : 3877
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 1000----------------------------------------------
+Tempo de ordenacao: 0,007302
+Tempo de Mapeamento Hash: 0,000133 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000059 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000026 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,007524
+
+Tempo de ordenacao: 0,001548
+Tempo de Mapeamento Hash: 0,000093 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000066 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,001732
+
+Tempo de ordenacao: 0,001312
+Tempo de Mapeamento Hash: 0,000062 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000046 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001445
+
+Tempo de ordenacao: 0,001323
+Tempo de Mapeamento Hash: 0,000080 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000045 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001471
+
+Tempo de ordenacao: 0,001297
+Tempo de Mapeamento Hash: 0,000059 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000045 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001423
+
+TEMPO MÉDIO TOTAL: 0,002719
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 1000----------------------------------------------
+Tempo de ordenacao: 0,000106
+Tempo de Mapeamento Hash: 0,000059 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000091 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000281
+
+Tempo de ordenacao: 0,000103
+Tempo de Mapeamento Hash: 0,000059 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000045 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000230
+
+Tempo de ordenacao: 0,000104
+Tempo de Mapeamento Hash: 0,000059 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000044 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000230
+
+Tempo de ordenacao: 0,000099
+Tempo de Mapeamento Hash: 0,000059 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000046 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000227
+
+Tempo de ordenacao: 0,000097
+Tempo de Mapeamento Hash: 0,000058 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca: 0,000045 segundos
+Valor encontrado =  167 + 3710 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  3034 + 843 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000223
+
+TEMPO MÉDIO TOTAL: 0,000238
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 2000----------------------------------------------
+Tempo de ordenacao: 0,005737
+Tempo de Mapeamento Hash: 0,000227 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000133 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,006105
+
+Tempo de ordenacao: 0,005802
+Tempo de Mapeamento Hash: 0,000214 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000134 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,006158
+
+Tempo de ordenacao: 0,005765
+Tempo de Mapeamento Hash: 0,000173 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000133 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,006080
+
+Tempo de ordenacao: 0,005476
+Tempo de Mapeamento Hash: 0,000151 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000096 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000006 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,005730
+
+Tempo de ordenacao: 0,005534
+Tempo de Mapeamento Hash: 0,000202 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000137 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,005882
+
+TEMPO MÉDIO TOTAL: 0,006229
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 2000----------------------------------------------
+Tempo de ordenacao: 0,000290
+Tempo de Mapeamento Hash: 0,000183 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000136 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000617
+
+Tempo de ordenacao: 0,000262
+Tempo de Mapeamento Hash: 0,000187 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000136 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000594
+
+Tempo de ordenacao: 0,000261
+Tempo de Mapeamento Hash: 0,000193 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000242 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000705
+
+Tempo de ordenacao: 0,000263
+Tempo de Mapeamento Hash: 0,000188 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000137 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000596
+
+Tempo de ordenacao: 0,000266
+Tempo de Mapeamento Hash: 0,000170 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca: 0,000137 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca2: 0,000007 segundos
+Valor encontrado =  10 + 3867 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000582
+
+TEMPO MÉDIO TOTAL: 0,000619
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 3000----------------------------------------------
+Tempo de ordenacao: 0,011485
+Tempo de Mapeamento Hash: 0,000208 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000153 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,011855
+
+Tempo de ordenacao: 0,011570
+Tempo de Mapeamento Hash: 0,000216 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000156 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,011950
+
+Tempo de ordenacao: 0,011484
+Tempo de Mapeamento Hash: 0,000198 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000154 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,011846
+
+Tempo de ordenacao: 0,011529
+Tempo de Mapeamento Hash: 0,000196 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000156 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,011892
+
+Tempo de ordenacao: 0,014148
+Tempo de Mapeamento Hash: 0,000201 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000153 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,014512
+
+TEMPO MÉDIO TOTAL: 0,013030
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 3000----------------------------------------------
+Tempo de ordenacao: 0,000358
+Tempo de Mapeamento Hash: 0,000182 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000152 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000701
+
+Tempo de ordenacao: 0,000353
+Tempo de Mapeamento Hash: 0,000182 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000153 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000697
+
+Tempo de ordenacao: 0,000354
+Tempo de Mapeamento Hash: 0,000181 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000152 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000696
+
+Tempo de ordenacao: 0,000351
+Tempo de Mapeamento Hash: 0,000184 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000152 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000696
+
+Tempo de ordenacao: 0,000378
+Tempo de Mapeamento Hash: 0,000187 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca: 0,000238 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca2: 0,000008 segundos
+Valor encontrado =  7 + 3870 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,000812
+
+TEMPO MÉDIO TOTAL: 0,000720
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 4000----------------------------------------------
+Tempo de ordenacao: 0,021461
+Tempo de Mapeamento Hash: 0,000265 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000211 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,021948
+
+Tempo de ordenacao: 0,021184
+Tempo de Mapeamento Hash: 0,000252 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000210 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000011 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,021658
+
+Tempo de ordenacao: 0,020181
+Tempo de Mapeamento Hash: 0,000261 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000209 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,020662
+
+Tempo de ordenacao: 0,024565
+Tempo de Mapeamento Hash: 0,000250 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000214 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,025040
+
+Tempo de ordenacao: 0,021505
+Tempo de Mapeamento Hash: 0,000267 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000209 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,021993
+
+TEMPO MÉDIO TOTAL: 0,022980
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 4000----------------------------------------------
+Tempo de ordenacao: 0,000475
+Tempo de Mapeamento Hash: 0,000231 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000211 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000929
+
+Tempo de ordenacao: 0,000472
+Tempo de Mapeamento Hash: 0,000244 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000214 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000941
+
+Tempo de ordenacao: 0,000474
+Tempo de Mapeamento Hash: 0,000233 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000209 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000927
+
+Tempo de ordenacao: 0,000481
+Tempo de Mapeamento Hash: 0,000254 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000209 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000011 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,000955
+
+Tempo de ordenacao: 0,000523
+Tempo de Mapeamento Hash: 0,000241 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000244 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000012 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001021
+
+TEMPO MÉDIO TOTAL: 0,000955
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 5000----------------------------------------------
+Tempo de ordenacao: 0,031649
+Tempo de Mapeamento Hash: 0,000295 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000273 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,032237
+
+Tempo de ordenacao: 0,031494
+Tempo de Mapeamento Hash: 0,000310 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000271 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,032095
+
+Tempo de ordenacao: 0,046892
+Tempo de Mapeamento Hash: 0,000310 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000271 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,047493
+
+Tempo de ordenacao: 0,031291
+Tempo de Mapeamento Hash: 0,000301 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000271 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,031882
+
+Tempo de ordenacao: 0,031317
+Tempo de Mapeamento Hash: 0,000306 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000270 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,031912
+
+TEMPO MÉDIO TOTAL: 0,036079
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 5000----------------------------------------------
+Tempo de ordenacao: 0,000612
+Tempo de Mapeamento Hash: 0,000284 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000270 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001186
+
+Tempo de ordenacao: 0,000611
+Tempo de Mapeamento Hash: 0,000290 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000270 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001190
+
+Tempo de ordenacao: 0,000609
+Tempo de Mapeamento Hash: 0,000287 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000270 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001184
+
+Tempo de ordenacao: 0,000611
+Tempo de Mapeamento Hash: 0,000283 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000270 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001183
+
+Tempo de ordenacao: 0,000609
+Tempo de Mapeamento Hash: 0,000285 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000270 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001183
+
+TEMPO MÉDIO TOTAL: 0,001185
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 6000----------------------------------------------
+Tempo de ordenacao: 0,057034
+Tempo de Mapeamento Hash: 0,000952 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000912 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000052 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,058954
+
+Tempo de ordenacao: 0,049030
+Tempo de Mapeamento Hash: 0,000379 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000336 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000023 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,049768
+
+Tempo de ordenacao: 0,045418
+Tempo de Mapeamento Hash: 0,000340 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000335 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,046117
+
+Tempo de ordenacao: 0,045289
+Tempo de Mapeamento Hash: 0,000346 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000333 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,045990
+
+Tempo de ordenacao: 0,045307
+Tempo de Mapeamento Hash: 0,000342 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000333 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,046006
+
+TEMPO MÉDIO TOTAL: 0,050552
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 6000----------------------------------------------
+Tempo de ordenacao: 0,000738
+Tempo de Mapeamento Hash: 0,000331 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000331 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001423
+
+Tempo de ordenacao: 0,000734
+Tempo de Mapeamento Hash: 0,000327 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000332 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001416
+
+Tempo de ordenacao: 0,000734
+Tempo de Mapeamento Hash: 0,000335 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000332 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,001424
+
+Tempo de ordenacao: 0,000735
+Tempo de Mapeamento Hash: 0,000325 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000332 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001415
+
+Tempo de ordenacao: 0,000732
+Tempo de Mapeamento Hash: 0,000319 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000333 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001406
+
+TEMPO MÉDIO TOTAL: 0,001417
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 7000----------------------------------------------
+Tempo de ordenacao: 0,077114
+Tempo de Mapeamento Hash: 0,000434 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000431 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000027 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,078007
+
+Tempo de ordenacao: 0,061569
+Tempo de Mapeamento Hash: 0,000380 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca: 0,000395 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca2: 0,000025 segundos
+Valor encontrado =  4 + 3873 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,062370
+
+Tempo de ordenacao: 0,061339
+Tempo de Mapeamento Hash: 0,000387 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000393 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,062129
+
+Tempo de ordenacao: 0,062492
+Tempo de Mapeamento Hash: 0,000400 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000393 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,063294
+
+Tempo de ordenacao: 0,061298
+Tempo de Mapeamento Hash: 0,000404 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000394 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,062106
+
+TEMPO MÉDIO TOTAL: 0,066998
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 7000----------------------------------------------
+Tempo de ordenacao: 0,000870
+Tempo de Mapeamento Hash: 0,000372 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000394 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001646
+
+Tempo de ordenacao: 0,000868
+Tempo de Mapeamento Hash: 0,000365 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000394 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001636
+
+Tempo de ordenacao: 0,000865
+Tempo de Mapeamento Hash: 0,000388 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000398 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001659
+
+Tempo de ordenacao: 0,000865
+Tempo de Mapeamento Hash: 0,000393 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000394 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001662
+
+Tempo de ordenacao: 0,000870
+Tempo de Mapeamento Hash: 0,000372 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000396 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000009 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001647
+
+TEMPO MÉDIO TOTAL: 0,001650
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 8000----------------------------------------------
+Tempo de ordenacao: 0,080080
+Tempo de Mapeamento Hash: 0,000424 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000455 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,080970
+
+Tempo de ordenacao: 0,080634
+Tempo de Mapeamento Hash: 0,000438 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000455 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,081538
+
+Tempo de ordenacao: 0,082348
+Tempo de Mapeamento Hash: 0,000426 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000458 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,083242
+
+Tempo de ordenacao: 0,080256
+Tempo de Mapeamento Hash: 0,000436 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000460 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000011 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,081163
+
+Tempo de ordenacao: 0,080052
+Tempo de Mapeamento Hash: 0,000434 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000457 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,080953
+
+TEMPO MÉDIO TOTAL: 0,083224
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 8000----------------------------------------------
+Tempo de ordenacao: 0,001015
+Tempo de Mapeamento Hash: 0,000409 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000457 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001892
+
+Tempo de ordenacao: 0,001004
+Tempo de Mapeamento Hash: 0,000416 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000456 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000044 segundos
+Tempo total: 0,001930
+
+Tempo de ordenacao: 0,001003
+Tempo de Mapeamento Hash: 0,000406 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000483 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001903
+
+Tempo de ordenacao: 0,001014
+Tempo de Mapeamento Hash: 0,000476 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000483 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001983
+
+Tempo de ordenacao: 0,001018
+Tempo de Mapeamento Hash: 0,000451 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000483 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000010 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,001963
+
+TEMPO MÉDIO TOTAL: 0,001934
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 9000----------------------------------------------
+Tempo de ordenacao: 0,102201
+Tempo de Mapeamento Hash: 0,000494 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000539 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000011 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,103246
+
+Tempo de ordenacao: 0,101669
+Tempo de Mapeamento Hash: 0,000748 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000892 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000044 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,103356
+
+Tempo de ordenacao: 0,101865
+Tempo de Mapeamento Hash: 0,000471 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000533 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000011 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,102881
+
+Tempo de ordenacao: 0,101260
+Tempo de Mapeamento Hash: 0,000456 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000532 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000012 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,102262
+
+Tempo de ordenacao: 0,102108
+Tempo de Mapeamento Hash: 0,000459 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000537 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000043 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,103148
+
+TEMPO MÉDIO TOTAL: 0,104913
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 9000----------------------------------------------
+Tempo de ordenacao: 0,001170
+Tempo de Mapeamento Hash: 0,000462 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000534 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000042 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002208
+
+Tempo de ordenacao: 0,001152
+Tempo de Mapeamento Hash: 0,000456 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000535 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000043 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002187
+
+Tempo de ordenacao: 0,001152
+Tempo de Mapeamento Hash: 0,000467 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000559 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000042 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002222
+
+Tempo de ordenacao: 0,001155
+Tempo de Mapeamento Hash: 0,000478 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000534 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000043 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002210
+
+Tempo de ordenacao: 0,001150
+Tempo de Mapeamento Hash: 0,000487 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000534 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000044 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002216
+
+TEMPO MÉDIO TOTAL: 0,002209
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 10000----------------------------------------------
+Tempo de ordenacao: 0,124934
+Tempo de Mapeamento Hash: 0,000516 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000614 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000047 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,126112
+
+Tempo de ordenacao: 0,125501
+Tempo de Mapeamento Hash: 0,000496 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000613 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000047 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,126659
+
+Tempo de ordenacao: 0,125109
+Tempo de Mapeamento Hash: 0,000504 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000614 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000048 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,126277
+
+Tempo de ordenacao: 0,124752
+Tempo de Mapeamento Hash: 0,000495 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000614 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000047 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,125909
+
+Tempo de ordenacao: 0,126025
+Tempo de Mapeamento Hash: 0,000512 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000614 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000048 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,127201
+
+TEMPO MÉDIO TOTAL: 0,128640
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 10000----------------------------------------------
+Tempo de ordenacao: 0,001271
+Tempo de Mapeamento Hash: 0,000482 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000614 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000047 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002415
+
+Tempo de ordenacao: 0,001268
+Tempo de Mapeamento Hash: 0,000492 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000613 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000047 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002421
+
+Tempo de ordenacao: 0,001264
+Tempo de Mapeamento Hash: 0,000488 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000611 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000047 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002410
+
+Tempo de ordenacao: 0,001263
+Tempo de Mapeamento Hash: 0,000480 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000614 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000048 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002407
+
+Tempo de ordenacao: 0,001281
+Tempo de Mapeamento Hash: 0,000491 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000629 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000049 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002451
+
+TEMPO MÉDIO TOTAL: 0,002421
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 11000----------------------------------------------
+Tempo de ordenacao: 0,151533
+Tempo de Mapeamento Hash: 0,000552 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000695 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000052 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,152833
+
+Tempo de ordenacao: 0,152293
+Tempo de Mapeamento Hash: 0,000557 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000751 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000053 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,153656
+
+Tempo de ordenacao: 0,151109
+Tempo de Mapeamento Hash: 0,000552 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000694 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,152407
+
+Tempo de ordenacao: 0,151828
+Tempo de Mapeamento Hash: 0,000551 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000695 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,153125
+
+Tempo de ordenacao: 0,154605
+Tempo de Mapeamento Hash: 0,000531 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000699 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,155886
+
+TEMPO MÉDIO TOTAL: 0,156002
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 11000----------------------------------------------
+Tempo de ordenacao: 0,001402
+Tempo de Mapeamento Hash: 0,000546 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000696 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002696
+
+Tempo de ordenacao: 0,001400
+Tempo de Mapeamento Hash: 0,000521 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000694 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002666
+
+Tempo de ordenacao: 0,001397
+Tempo de Mapeamento Hash: 0,000525 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000695 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002668
+
+Tempo de ordenacao: 0,001401
+Tempo de Mapeamento Hash: 0,000520 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000697 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002670
+
+Tempo de ordenacao: 0,001398
+Tempo de Mapeamento Hash: 0,000532 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca: 0,000666 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca2: 0,000051 segundos
+Valor encontrado =  2 + 3875 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002648
+
+TEMPO MÉDIO TOTAL: 0,002670
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 12000----------------------------------------------
+Tempo de ordenacao: 0,179952
+Tempo de Mapeamento Hash: 0,000586 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000776 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,181331
+
+Tempo de ordenacao: 0,196463
+Tempo de Mapeamento Hash: 0,000595 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000775 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,197849
+
+Tempo de ordenacao: 0,198132
+Tempo de Mapeamento Hash: 0,000623 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000782 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000058 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,199596
+
+Tempo de ordenacao: 0,191732
+Tempo de Mapeamento Hash: 0,001170 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001509 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000029 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,194442
+
+Tempo de ordenacao: 0,182222
+Tempo de Mapeamento Hash: 0,000599 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000788 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000014 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,183624
+
+TEMPO MÉDIO TOTAL: 0,194038
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 12000----------------------------------------------
+Tempo de ordenacao: 0,001556
+Tempo de Mapeamento Hash: 0,000580 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000776 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000014 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002927
+
+Tempo de ordenacao: 0,001554
+Tempo de Mapeamento Hash: 0,000555 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000775 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002900
+
+Tempo de ordenacao: 0,001553
+Tempo de Mapeamento Hash: 0,000563 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000774 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002905
+
+Tempo de ordenacao: 0,001550
+Tempo de Mapeamento Hash: 0,000570 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000790 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000018 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002929
+
+Tempo de ordenacao: 0,001549
+Tempo de Mapeamento Hash: 0,000574 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000776 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000014 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,002914
+
+TEMPO MÉDIO TOTAL: 0,002915
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 13000----------------------------------------------
+Tempo de ordenacao: 0,211520
+Tempo de Mapeamento Hash: 0,000612 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000857 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,213006
+
+Tempo de ordenacao: 0,212313
+Tempo de Mapeamento Hash: 0,000609 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000881 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000016 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,213820
+
+Tempo de ordenacao: 0,211061
+Tempo de Mapeamento Hash: 0,000636 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000859 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000016 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,212573
+
+Tempo de ordenacao: 0,211973
+Tempo de Mapeamento Hash: 0,000632 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001094 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000016 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,213716
+
+Tempo de ordenacao: 0,210894
+Tempo de Mapeamento Hash: 0,000615 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000857 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,212384
+
+TEMPO MÉDIO TOTAL: 0,216015
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 13000----------------------------------------------
+Tempo de ordenacao: 0,001699
+Tempo de Mapeamento Hash: 0,000607 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000856 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000016 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003178
+
+Tempo de ordenacao: 0,001694
+Tempo de Mapeamento Hash: 0,000602 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000859 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000016 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003171
+
+Tempo de ordenacao: 0,001692
+Tempo de Mapeamento Hash: 0,000603 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000858 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003169
+
+Tempo de ordenacao: 0,001695
+Tempo de Mapeamento Hash: 0,000589 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000855 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000016 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003156
+
+Tempo de ordenacao: 0,001696
+Tempo de Mapeamento Hash: 0,000609 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000857 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000015 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003178
+
+TEMPO MÉDIO TOTAL: 0,003170
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 14000----------------------------------------------
+Tempo de ordenacao: 0,276180
+Tempo de Mapeamento Hash: 0,000651 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000936 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,277785
+
+Tempo de ordenacao: 0,244423
+Tempo de Mapeamento Hash: 0,000636 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000933 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,246010
+
+Tempo de ordenacao: 0,244301
+Tempo de Mapeamento Hash: 0,000633 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000939 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,245892
+
+Tempo de ordenacao: 0,258940
+Tempo de Mapeamento Hash: 0,000651 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000973 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,260583
+
+Tempo de ordenacao: 0,244737
+Tempo de Mapeamento Hash: 0,000656 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000941 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,246352
+
+TEMPO MÉDIO TOTAL: 0,258495
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 14000----------------------------------------------
+Tempo de ordenacao: 0,001885
+Tempo de Mapeamento Hash: 0,000635 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000938 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003474
+
+Tempo de ordenacao: 0,001895
+Tempo de Mapeamento Hash: 0,000633 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000939 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003486
+
+Tempo de ordenacao: 0,001829
+Tempo de Mapeamento Hash: 0,000633 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000941 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003420
+
+Tempo de ordenacao: 0,001823
+Tempo de Mapeamento Hash: 0,000619 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,000938 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003398
+
+Tempo de ordenacao: 0,001909
+Tempo de Mapeamento Hash: 0,000618 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,000939 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003484
+
+TEMPO MÉDIO TOTAL: 0,003452
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 15000----------------------------------------------
+Tempo de ordenacao: 0,284507
+Tempo de Mapeamento Hash: 0,000658 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001022 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,286206
+
+Tempo de ordenacao: 0,280610
+Tempo de Mapeamento Hash: 0,000674 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001020 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,282323
+
+Tempo de ordenacao: 0,284071
+Tempo de Mapeamento Hash: 0,000667 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001019 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000018 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,285777
+
+Tempo de ordenacao: 0,281476
+Tempo de Mapeamento Hash: 0,000701 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001020 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000017 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,283216
+
+Tempo de ordenacao: 0,307394
+Tempo de Mapeamento Hash: 0,001302 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,002118 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000035 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,310851
+
+TEMPO MÉDIO TOTAL: 0,293127
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 15000----------------------------------------------
+Tempo de ordenacao: 0,003905
+Tempo de Mapeamento Hash: 0,001406 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001973 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000035 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,007322
+
+Tempo de ordenacao: 0,004059
+Tempo de Mapeamento Hash: 0,001287 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001984 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000035 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,007367
+
+Tempo de ordenacao: 0,003883
+Tempo de Mapeamento Hash: 0,001325 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,002062 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000036 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,007308
+
+Tempo de ordenacao: 0,003953
+Tempo de Mapeamento Hash: 0,001405 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,002083 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000035 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,007478
+
+Tempo de ordenacao: 0,004082
+Tempo de Mapeamento Hash: 0,001606 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,002095 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000035 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000003 segundos
+Tempo total: 0,007821
+
+TEMPO MÉDIO TOTAL: 0,007459
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 16000----------------------------------------------
+Tempo de ordenacao: 0,384943
+Tempo de Mapeamento Hash: 0,000708 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001100 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,386771
+
+Tempo de ordenacao: 0,336067
+Tempo de Mapeamento Hash: 0,000704 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca: 0,001101 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  1 + 3876 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,337892
+
+Tempo de ordenacao: 0,349044
+Tempo de Mapeamento Hash: 0,001080 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001561 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000025 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,351712
+
+Tempo de ordenacao: 0,331167
+Tempo de Mapeamento Hash: 0,000705 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001112 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,333004
+
+Tempo de ordenacao: 0,355225
+Tempo de Mapeamento Hash: 0,000705 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001101 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,357050
+
+TEMPO MÉDIO TOTAL: 0,360745
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 16000----------------------------------------------
+Tempo de ordenacao: 0,002114
+Tempo de Mapeamento Hash: 0,000700 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001098 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003932
+
+Tempo de ordenacao: 0,002127
+Tempo de Mapeamento Hash: 0,000717 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001097 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003961
+
+Tempo de ordenacao: 0,002100
+Tempo de Mapeamento Hash: 0,000704 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001100 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,003923
+
+Tempo de ordenacao: 0,002105
+Tempo de Mapeamento Hash: 0,000697 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001103 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000028 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,003935
+
+Tempo de ordenacao: 0,002201
+Tempo de Mapeamento Hash: 0,000710 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001100 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000019 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,004031
+
+TEMPO MÉDIO TOTAL: 0,003956
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 17000----------------------------------------------
+Tempo de ordenacao: 0,388830
+Tempo de Mapeamento Hash: 0,000736 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001185 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000020 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,390772
+
+Tempo de ordenacao: 0,410227
+Tempo de Mapeamento Hash: 0,000714 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001187 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000020 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,412149
+
+Tempo de ordenacao: 0,364696
+Tempo de Mapeamento Hash: 0,000774 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001190 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000022 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000002 segundos
+Tempo total: 0,366682
+
+Tempo de ordenacao: 0,406641
+Tempo de Mapeamento Hash: 0,000751 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca: 0,001187 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca2: 0,000021 segundos
+Valor encontrado =  0 + 3877 = 3877
+Tempo de Busca Hash: 0,000001 segundos
+Tempo total: 0,408602
+

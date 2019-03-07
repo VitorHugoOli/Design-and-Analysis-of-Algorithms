@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1543742751 source:/home/josediego/Documentos/TP4_PAA_KMP/KMP.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1543742761 source:/home/josediego/Documentos/TP4_PAA_KMP/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"KMP.h"
+
+1543712845 /home/josediego/Documentos/TP4_PAA_KMP/KMP.h
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1543705418 source:/home/josediego/Documentos/TP4_PAA_BM/BM.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1543742473 source:/home/josediego/Documentos/TP4_PAA_BM/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"BM.h"
+
+1543705449 /home/josediego/Documentos/TP4_PAA_BM/BM.h
+

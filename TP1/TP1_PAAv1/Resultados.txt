@@ -1,0 +1,138 @@
+Valor de X : 41
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 250----------------------------------------------
+1 - Tempo de ordenacao: 0,000111
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+3 - tempo de Busca2: 0,000009 segundos
+Tempo total: 0,000123
+
+1 - Tempo de ordenacao: 0,000112
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+3 - tempo de Busca2: 0,000010 segundos
+Tempo total: 0,000125
+
+1 - Tempo de ordenacao: 0,000111
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+3 - tempo de Busca2: 0,000009 segundos
+Tempo total: 0,000122
+
+1 - Tempo de ordenacao: 0,000113
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+3 - tempo de Busca2: 0,000009 segundos
+Tempo total: 0,000123
+
+1 - Tempo de ordenacao: 0,000111
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+3 - tempo de Busca2: 0,000009 segundos
+Tempo total: 0,000122
+
+TEMPO MÉDIO TOTAL: 0,000123
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 250----------------------------------------------
+1 - Tempo de ordenacao: 0,000029
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+Tempo total: 0,000031
+
+1 - Tempo de ordenacao: 0,000029
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+Tempo total: 0,000031
+
+1 - Tempo de ordenacao: 0,000028
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+Tempo total: 0,000030
+
+1 - Tempo de ordenacao: 0,000029
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+Tempo total: 0,000031
+
+1 - Tempo de ordenacao: 0,000028
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000002 segundos
+Tempo total: 0,000030
+
+TEMPO MÉDIO TOTAL: 0,000031
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 500----------------------------------------------
+1 - Tempo de ordenacao: 0,000418
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+3 - tempo de Busca2: 0,000022 segundos
+Tempo total: 0,000444
+
+1 - Tempo de ordenacao: 0,000413
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+3 - tempo de Busca2: 0,000019 segundos
+Tempo total: 0,000436
+
+1 - Tempo de ordenacao: 0,000415
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+3 - tempo de Busca2: 0,000019 segundos
+Tempo total: 0,000438
+
+1 - Tempo de ordenacao: 0,000413
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+3 - tempo de Busca2: 0,000018 segundos
+Tempo total: 0,000434
+
+1 - Tempo de ordenacao: 0,000413
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+3 - tempo de Busca2: 0,000023 segundos
+Tempo total: 0,000440
+
+TEMPO MÉDIO TOTAL: 0,000469
+
+
+------------------------------Método Quick Sort Tamanho do vetor aleatorio: 500----------------------------------------------
+1 - Tempo de ordenacao: 0,000062
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+Tempo total: 0,000066
+
+1 - Tempo de ordenacao: 0,000061
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+Tempo total: 0,000065
+
+1 - Tempo de ordenacao: 0,000060
+2 - tempo de Busca: 0,000001 segundos
+3 - tempo de Busca2: 0,000004 segundos
+Tempo total: 0,000065
+
+1 - Tempo de ordenacao: 0,000060
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+Tempo total: 0,000064
+
+1 - Tempo de ordenacao: 0,000061
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,000004 segundos
+Tempo total: 0,000065
+
+TEMPO MÉDIO TOTAL: 0,000065
+
+
+------------------------------Método Select Sort Tamanho do vetor aleatorio: 750----------------------------------------------
+1 - Tempo de ordenacao: 0,000921
+2 - tempo de Busca: 0,000001 segundos
+3 - tempo de Busca2: 0,000006 segundos
+3 - tempo de Busca2: 0,000034 segundos
+Tempo total: 0,000962
+
+1 - Tempo de ordenacao: 0,000910
+2 - tempo de Busca: 0,000000 segundos
+3 - tempo de Busca2: 0,0

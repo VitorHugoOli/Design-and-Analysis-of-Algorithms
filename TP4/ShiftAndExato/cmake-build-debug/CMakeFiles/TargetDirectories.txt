@@ -1,0 +1,3 @@
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/CMakeFiles/ShiftAndExato.dir
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TPS/TP4/ShiftAndExato/cmake-build-debug/CMakeFiles/edit_cache.dir

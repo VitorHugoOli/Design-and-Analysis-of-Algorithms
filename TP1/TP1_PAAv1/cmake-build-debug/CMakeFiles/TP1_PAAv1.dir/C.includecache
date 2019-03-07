@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/Hash.c
+Hash.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/Hash.h
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/Hash.h
+stdio.h
+-
+stdlib.h
+-
+locale.h
+-
+time.h
+-
+windows.h
+-
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/arq.c
+stdio.h
+-
+stdlib.h
+-
+arq.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/arq.h
+Hash.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/Hash.h
+time.h
+-
+windows.h
+-
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/arq.h
+Hash.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/Hash.h
+
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/main.c
+arq.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/arq.h
+Hash.h
+C:/Users/vho20/Dropbox/facu/4 SEMESTRE/PAA/TP1_PAAv1/Hash.h
+
